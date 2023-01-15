@@ -14,6 +14,10 @@
   transition: all .2s linear;
 }
 
+.disable-dbl-tap-zoom {
+  touch-action: manipulation;
+}
+
 body {
   background-image: url(img/bck-grid_sadgirlonline.gif);
   background-color: rgba(0, 0, 0, 0.651);
