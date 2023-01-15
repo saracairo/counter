@@ -60,16 +60,12 @@ A simple counter app I built for practice as a student, shaped like a retrogamin
 Some examples of how this app can be used. <br />
  - Basic functions: _increment_, _decriment_ and _reset_ the counter. <br />
  <br />
-<img src="img/screenshot/counter-4.png" alt="app-screenshot" width="160">
-<img src="img/screenshot/counter-5.png" alt="app-screenshot" width="155">
-<img src="img/screenshot/counter-6.png" alt="app-screenshot" width="157">
-<br />
-<br />
-- Additional function: _choose the color_ you like for the console. <br />
-<br />
-<img src="img/screenshot/counter-color2.png" alt="app-screenshot" width="158">
-<img src="img/screenshot/counter-color3.png" alt="app-screenshot" width="159">
-<img src="img/screenshot/counter-color4.png" alt="app-screenshot" width="158">
+ <img src="img/screenshot/counter-4.png" alt="app-screenshot" width="160"><img src="img/screenshot/counter-5.png" alt="app-screenshot" width="155"><img src="img/screenshot/counter-6.png" alt="app-screenshot" width="157">
+ <br /><br />
+ 
+  - Additional function: _choose the color_ you like for the console.
+ <br />
+ <img src="img/screenshot/counter-color2.png" alt="app-screenshot" width="158"><img src="img/screenshot/counter-color3.png" alt="app-screenshot" width="159"><img src="img/screenshot/counter-color4.png" alt="app-screenshot" width="158">
 
 <br />
 <br />
