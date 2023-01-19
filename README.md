@@ -58,11 +58,11 @@ A simple counter app I built for practice as a student, shaped like a retrogamin
 
 ## Usage
 Some examples of how this app can be used. <br />
- - Basic functions: _increment_, _decriment_ and _reset_ the counter. <br />
+ - Basic functions: _increment_, _decriment_ (also in negative numbers) and _reset_ the counter. <br />
  <br />
  <img src="img/screenshot/counter-4.png" alt="app-screenshot" width="160">
- <img src="img/screenshot/counter-5.png" alt="app-screenshot" width="155">
  <img src="img/screenshot/counter-6.png" alt="app-screenshot" width="157">
+ <img src="img/screenshot/counter-5.png" alt="app-screenshot" width="145">
  <br /><br />
  
  - Additional function: _choose the color_ you like for the console.
